@@ -27,54 +27,102 @@
 //}
 
 // Задание № 4
-var a = +prompt('Введите число от 0 до 15');
-switch(a){
-    case 0:
-    alert(0);
-    break;
-    case 1:
-        alert(1);
-        break;
-    case 2:
-        alert(2);
-        break;
-    case 3:
-        alert(3);
-        break;
-    case 4:
-        alert(04);
-        break;
-    case 5:
-        alert(5);
-        break;
-    case 6:
-        alert(6);
-        break;
-    case 7:
-        alert(7);
-        break;
-    case 8:
-        alert(8);
-        break;
-    case 9:
-        alert(9);
-        break;
-    case 10:
-        alert(10);
-        break;
-    case 11:
-        alert(11);
-        break;
-    case 12:
-        alert(12);
-        break;
-    case 13:
-        alert(13);
-        break;
-    case 14:
-        alert(14);
-        break;
-    case 15:
-        alert(15);
-        break;
-}
+//var a = +prompt('Введите число от 0 до 15');
+//switch(a){
+//    case 0:
+//    alert(0);
+//    break;
+//    case 1:
+//        alert(1);
+//        break;
+//    case 2:
+//        alert(2);
+//        break;
+//    case 3:
+//        alert(3);
+//        break;
+//    case 4:
+//        alert(04);
+//        break;
+//    case 5:
+//        alert(5);
+//        break;
+//    case 6:
+//        alert(6);
+//        break;
+//    case 7:
+//        alert(7);
+//        break;
+//    case 8:
+//        alert(8);
+//        break;
+//    case 9:
+//        alert(9);
+//        break;
+//    case 10:
+//        alert(10);
+//        break;
+//    case 11:
+//        alert(11);
+//        break;
+//    case 12:
+//        alert(12);
+//        break;
+//    case 13:
+//        alert(13);
+//        break;
+//    case 14:
+//        alert(14);
+//        break;
+//    case 15:
+//        alert(15);
+//        break;
+//}
+
+// Задание № 5
+
+//var x = 10;
+//var b = 10;
+//function plus(x,y){
+//    return x + y;
+//    alert(plus);  
+//}
+//function minus(x, y) {
+//    return x - y;
+//    alert(minus);
+//}
+//function composition (x, y) {
+//    return x * y;
+//    alert(composition);
+//}
+//function division(x, y) {
+//    return x / y;
+//    alert(division);
+//}
+
+// Задание № 6
+
+//function mathOperation(arg1, arg2, operation){
+//    switch (operation){
+//    case 'addition':
+//       return arg1 + arg2;
+//        break;
+//    case 'subtraction':
+//        return arg1 - arg2;
+//        break;
+//        case 'composition':
+//        return arg1 * arg2;
+//        break;
+//        case 'division':
+//        return arg1 / arg2;
+//        break;       
+//}
+//}
+
+// Задание № 7
+//alert(null > 0);  // (1) false 
+//alert(null == 0); // (2) false
+//alert(null >= 0); // (3) true Потому что сравнение рассматривает null как число, поэтому true.
+
+// Задание № 8
+// Затрудняюсь сделать
